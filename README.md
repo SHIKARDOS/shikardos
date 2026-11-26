@@ -3,6 +3,16 @@
 **Sound engineering · Cognitive AI · Applied mathematics**
 From Arkhipo-Osipovka, on the Black Sea coast.
 
+```mermaid
+graph TD
+    GRAIN[The Grain Principle 集-合-生<br>methodology] --> AUDIO[SHIKARDOS AUDIO<br>Hi-Fi player]
+    GRAIN --> ORBITAL[SHIKARDOS ORBITAL<br>radial model]
+    GRAIN --> ELIAR[ELIAR Brain Kit<br>cognitive architecture]
+    ORBITAL --> AUDIO
+    ELIAR --> AUDIO
+    RADIO[Radio & TV<br>1000 + 1000] --> AUDIO
+```
+
 ---
 
 ## 🎵 SHIKARDOS AUDIO
