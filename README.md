@@ -25,9 +25,9 @@ A cognitive architecture for an AI partner: 54 Python "organ" modules — memory
 ## 🔗 Official resources & download
 
 - **Website:** https://shikardos.net/
+- **4PDA forum:** https://4pda.to/forum/index.php?showtopic=1124801
 - **RuStore:** https://www.rustore.ru/catalog/app/com.shikardos.shikardos_audio
 - **Telegram:** https://t.me/shikardos_audio
-- **4PDA forum:** https://4pda.to/forum/index.php?showtopic=1124801
 - **MAX:** https://max.ru/join/oMdgQXWiu_6rrCM91xLpJqB0eVxB1KLjSqFowHDm7po
 - **VK:** https://vk.ru/shikardosaudio
 - **YouTube:** https://www.youtube.com/@shikardosaudio
