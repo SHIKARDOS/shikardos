@@ -1,4 +1,4 @@
-# SHIKARDOS — Yuri Gazhiu
+# SHIKARDOS
 
 **Sound engineering · Cognitive AI · Applied mathematics**
 From Arkhipo-Osipovka, on the Black Sea coast.
