@@ -4,7 +4,7 @@
 
 **Звукоинженерия · Когнитивный ИИ · Прикладная математика** — из Архипо-Осиповки, на берегу Чёрного моря.
 
-![Схема экосистемы SHIKARDOS](ecosystem-map.png)
+[![Схема экосистемы SHIKARDOS](ecosystem-map.png)](https://github.com/SHIKARDOS/shikardos-audio/releases)
 
 ---
 
