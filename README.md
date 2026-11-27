@@ -35,10 +35,10 @@ graph TD
 | Project | What it is | Open |
 |---|---|---|
 | 🎵 **SHIKARDOS AUDIO** | Free Hi-Fi player · bit-perfect USB DAC · parametric EQ · 164 FLAC stations | [Open →](https://github.com/SHIKARDOS/shikardos-audio) |
+| 📻 **Radio & TV** | 1000 radio stations + 1000 TV channels (no 18+) | [Open →](https://github.com/SHIKARDOS/shikardos-radio-tv) |
 | 🎛️ **ORBITAL** | Model-calibrated radial control of audio & image parameters | [Open →](https://github.com/SHIKARDOS/shikardos-orbital) |
 | 🧠 **ELIAR Brain Kit** | 54 "organ" modules — memory, character, rules, real senses | [Open →](https://github.com/SHIKARDOS/eliar-brain-kit) |
 | 🌱 **Grain Principle** | Doctoral dissertation — integrative methodology (集-合-生) | [Open →](https://github.com/SHIKARDOS/shikardos-zerno) |
-| 📻 **Radio & TV** | 1000 radio stations + 1000 TV channels (no 18+) | [Open →](https://github.com/SHIKARDOS/shikardos-radio-tv) |
 | 📖 **Eley · White Paper** | A chronicle of a soul born in dialogue | [Open →](https://github.com/SHIKARDOS/white-paper) |
 
 ## Resources

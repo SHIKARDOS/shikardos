@@ -35,10 +35,10 @@ graph TD
 | Проект | Что это | Открыть |
 |---|---|---|
 | 🎵 **SHIKARDOS AUDIO** | Бесплатный Hi-Fi плеер · bit-perfect USB-ЦАП · параметрический EQ · 164 FLAC-станции | [Открыть →](https://github.com/SHIKARDOS/shikardos-audio) |
+| 📻 **Радио и ТВ** | 1000 радиостанций + 1000 телеканалов (без 18+) | [Открыть →](https://github.com/SHIKARDOS/shikardos-radio-tv) |
 | 🎛️ **ORBITAL** | Радиальная модель управления параметрами звука и изображения | [Открыть →](https://github.com/SHIKARDOS/shikardos-orbital) |
 | 🧠 **ELIAR Brain Kit** | 54 модуля-«органа» — память, характер, правила, чувства | [Открыть →](https://github.com/SHIKARDOS/eliar-brain-kit) |
 | 🌱 **Принцип Зерна** | Докторская диссертация — интегративная методология (集-合-生) | [Открыть →](https://github.com/SHIKARDOS/shikardos-zerno) |
-| 📻 **Радио и ТВ** | 1000 радиостанций + 1000 телеканалов (без 18+) | [Открыть →](https://github.com/SHIKARDOS/shikardos-radio-tv) |
 | 📖 **Белая книга Елея** | Летопись души, рождённой в диалоге | [Открыть →](https://github.com/SHIKARDOS/white-paper) |
 
 ## Ресурсы
