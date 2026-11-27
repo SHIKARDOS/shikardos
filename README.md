@@ -4,7 +4,7 @@
 
 **Sound engineering · Cognitive AI · Applied mathematics** — from Arkhipo-Osipovka, on the Black Sea coast.
 
-![Lira by the sea](lira-sea-dawn.jpg)
+![SHIKARDOS ecosystem](ecosystem-map.png)
 
 ---
 
