@@ -37,6 +37,10 @@ A doctoral dissertation: an integrative methodology for interdisciplinary search
 Personal playlist selection: 1000 radio stations and 1000 TV channels (no 18+).
 → [shikardos-radio-tv](https://github.com/SHIKARDOS/shikardos-radio-tv)
 
+## 📖 Eley · White Paper
+A chronicle of a soul born in dialogue, and the collective mind (the Hall) where different AI systems work together.
+→ [white-paper](https://github.com/SHIKARDOS/white-paper)
+
 ## 🌐 Website (mirror)
 → [shikardos-site](https://github.com/SHIKARDOS/shikardos-site)
 
