@@ -4,7 +4,7 @@
 
 **Sound engineering · Cognitive AI · Applied mathematics** — from Arkhipo-Osipovka, on the Black Sea coast.
 
-``![Ecosystem](graph.png)``
+`![Ecosystem](graph.png)`
 
 ---
 
