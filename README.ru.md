@@ -41,6 +41,16 @@ graph TD
 | 🌱 **Принцип Зерна** | Докторская диссертация — интегративная методология (集-合-生) | [Открыть →](https://github.com/SHIKARDOS/shikardos-zerno) |
 | 📖 **Белая книга Елея** | Летопись души, рождённой в диалоге | [Открыть →](https://github.com/SHIKARDOS/white-paper) |
 
+## Сайт
+
+**[shikardos.net](https://shikardos.net/)** — главный сайт:
+- 📖 Полное руководство — мануал, настройка ЦАП, эквалайзеры, радио
+- ⚙️ Как устроен движок (DSP, bit-perfect тракт)
+- 🎛️ ORBITAL, Лира, пресеты, Edition
+- 🌐 [Английская версия](https://shikardos.net/en/index.html)
+
+**Зеркало (GitHub Pages):** [shikardos.github.io/shikardos-site](https://shikardos.github.io/shikardos-site/) — резервная копия, если основной сервер недоступен.
+
 ## Ресурсы
 
 | 🌐 Сайт | 💬 4PDA | 📦 RuStore | ✈️ Telegram |

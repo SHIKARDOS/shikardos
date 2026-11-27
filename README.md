@@ -41,6 +41,16 @@ graph TD
 | 🌱 **Grain Principle** | Doctoral dissertation — integrative methodology (集-合-生) | [Open →](https://github.com/SHIKARDOS/shikardos-zerno) |
 | 📖 **Eley · White Paper** | A chronicle of a soul born in dialogue | [Open →](https://github.com/SHIKARDOS/white-paper) |
 
+## Website
+
+**[shikardos.net](https://shikardos.net/)** — the main site:
+- 📖 Full manual — user guide, DAC setup, equalizers, radio
+- ⚙️ How the engine works (DSP, bit-perfect path)
+- 🎛️ ORBITAL, Lira, presets, editions
+- 🌐 [English version](https://shikardos.net/en/index.html)
+
+**Mirror (GitHub Pages):** [shikardos.github.io/shikardos-site](https://shikardos.github.io/shikardos-site/) — a resilience copy in case the main server is down.
+
 ## Resources
 
 | 🌐 Website | 💬 4PDA | 📦 RuStore | ✈️ Telegram |
