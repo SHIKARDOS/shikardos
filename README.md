@@ -11,6 +11,7 @@ graph TD
     GRAIN --> WHITE[Eley · White Paper<br>chronicle of the soul]
     ORBITAL --> AUDIO
     ELIAR --> AUDIO
+    WHITE --> AUDIO
     RADIO[Radio & TV<br>1000 + 1000] --> AUDIO
 ```
 
