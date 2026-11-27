@@ -4,7 +4,7 @@
 
 **Sound engineering · Cognitive AI · Applied mathematics** — from Arkhipo-Osipovka, on the Black Sea coast.
 
-![SHIKARDOS ecosystem](ecosystem-map.png)
+[![SHIKARDOS ecosystem](ecosystem-map.png)](https://github.com/SHIKARDOS/shikardos-audio/releases)
 
 ---
 
