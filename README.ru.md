@@ -13,7 +13,7 @@
 | Проект | Что это | Открыть |
 |---|---|---|
 | 🌐 **Сайт** | shikardos.net — мануал, движок, ORBITAL, Лира | [Открыть →](https://shikardos.net/) |
-| 🎵 **SHIKARDOS AUDIO** | Бесплатный Hi-Fi плеер · bit-perfect USB-ЦАП · параметрический EQ · 164 FLAC-станции | [Открыть →](https://github.com/SHIKARDOS/shikardos-audio) |
+| 🎵 **SHIKARDOS AUDIO** | Бесплатный Hi-Fi плеер · bit-perfect USB-ЦАП · параметрический EQ · 164 FLAC-станции | [Открыть →](https://github.com/SHIKARDOS/shikardos-audio) · [Релизы →](https://github.com/SHIKARDOS/shikardos-audio/releases) |
 | 📻 **Радио и ТВ** | 1000 радиостанций + 1000 телеканалов (без 18+) | [Открыть →](https://github.com/SHIKARDOS/shikardos-radio-tv) |
 | 🎛️ **ORBITAL** | Радиальная модель управления параметрами звука и изображения | [Открыть →](https://github.com/SHIKARDOS/shikardos-orbital) |
 | 🧠 **ELIAR Brain Kit** | 54 модуля-«органа» — память, характер, правила, чувства | [Открыть →](https://github.com/SHIKARDOS/eliar-brain-kit) |
