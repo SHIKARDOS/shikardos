@@ -14,6 +14,7 @@ graph TD
     ELIAR --> AUDIO
     WHITE --> AUDIO
     RADIO[Radio & TV<br>1000 + 1000] --> AUDIO
+    AUDIO --> SITE[Website · shikardos.net<br>manual · engine]
 
     classDef root fill:#e8b34b,stroke:#b9791f,color:#1a1200,font-weight:bold;
     classDef main fill:#2f81f7,stroke:#1b4fa6,color:#ffffff,font-weight:bold;
@@ -26,6 +27,7 @@ graph TD
     class ELIAR eliar;
     class WHITE white;
     class RADIO soft;
+    class SITE main;
 ```
 
 ---
@@ -34,6 +36,7 @@ graph TD
 
 | Project | What it is | Open |
 |---|---|---|
+| 🌐 **Website** | shikardos.net — manual, engine, ORBITAL, Lira | [Open →](https://shikardos.net/) |
 | 🎵 **SHIKARDOS AUDIO** | Free Hi-Fi player · bit-perfect USB DAC · parametric EQ · 164 FLAC stations | [Open →](https://github.com/SHIKARDOS/shikardos-audio) |
 | 📻 **Radio & TV** | 1000 radio stations + 1000 TV channels (no 18+) | [Open →](https://github.com/SHIKARDOS/shikardos-radio-tv) |
 | 🎛️ **ORBITAL** | Model-calibrated radial control of audio & image parameters | [Open →](https://github.com/SHIKARDOS/shikardos-orbital) |
