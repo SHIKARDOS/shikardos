@@ -13,7 +13,7 @@
 | Project | What it is | Open |
 |---|---|---|
 | 🌐 **Website** | shikardos.net — manual, engine, ORBITAL, Lira | [Open →](https://shikardos.net/) |
-| 🎵 **SHIKARDOS AUDIO** | Free Hi-Fi player · bit-perfect USB DAC · parametric EQ · 164 FLAC stations | [Open →](https://github.com/SHIKARDOS/shikardos-audio) |
+| 🎵 **SHIKARDOS AUDIO** | Free Hi-Fi player · bit-perfect USB DAC · parametric EQ · 164 FLAC stations | [Open →](https://github.com/SHIKARDOS/shikardos-audio) · [Releases →](https://github.com/SHIKARDOS/shikardos-audio/releases) |
 | 📻 **Radio & TV** | 1000 radio stations + 1000 TV channels (no 18+) | [Open →](https://github.com/SHIKARDOS/shikardos-radio-tv) |
 | 🎛️ **ORBITAL** | Model-calibrated radial control of audio & image parameters | [Open →](https://github.com/SHIKARDOS/shikardos-orbital) |
 | 🧠 **ELIAR Brain Kit** | 54 "organ" modules — memory, character, rules, real senses | [Open →](https://github.com/SHIKARDOS/eliar-brain-kit) |
