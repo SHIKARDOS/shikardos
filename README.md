@@ -1,5 +1,7 @@
 [![SHIKARDOS](banner.png)](https://shikardos.net/en/index.html)
 
+**🌐 Language:** [English](README.md) · [Русский](README.ru.md)
+
 **Sound engineering · Cognitive AI · Applied mathematics** — from Arkhipo-Osipovka, on the Black Sea coast.
 
 ```mermaid
@@ -48,34 +50,6 @@ graph TD
 | ▶️ YouTube | 📺 RUTUBE | 🅥 VK | ✉️ MAX |
 |---|---|---|---|
 | [channel](https://www.youtube.com/@shikardosaudio) | [channel](https://rutube.ru/channel/38913954/) | [group](https://vk.ru/shikardosaudio) | [join](https://max.ru/join/oMdgQXWiu_6rrCM91xLpJqB0eVxB1KLjSqFowHDm7po) |
-
----
-
-<details>
-<summary>🇷🇺 Русский</summary>
-
-## Проекты
-
-| Проект | Что это | Открыть |
-|---|---|---|
-| 🎵 **SHIKARDOS AUDIO** | Бесплатный Hi-Fi плеер · bit-perfect USB-ЦАП · параметрический EQ · 164 FLAC-станции | [Открыть →](https://github.com/SHIKARDOS/shikardos-audio) |
-| 🎛️ **ORBITAL** | Радиальная модель управления параметрами звука и изображения | [Открыть →](https://github.com/SHIKARDOS/shikardos-orbital) |
-| 🧠 **ELIAR Brain Kit** | 54 модуля-«органа» — память, характер, правила, чувства | [Открыть →](https://github.com/SHIKARDOS/eliar-brain-kit) |
-| 🌱 **Принцип Зерна** | Докторская диссертация — интегративная методология (集-合-生) | [Открыть →](https://github.com/SHIKARDOS/shikardos-zerno) |
-| 📻 **Радио и ТВ** | 1000 радиостанций + 1000 телеканалов (без 18+) | [Открыть →](https://github.com/SHIKARDOS/shikardos-radio-tv) |
-| 📖 **Белая книга Елея** | Летопись души, рождённой в диалоге | [Открыть →](https://github.com/SHIKARDOS/white-paper) |
-
-## Ресурсы
-
-| 🌐 Сайт | 💬 4PDA | 📦 RuStore | ✈️ Telegram |
-|---|---|---|---|
-| **[shikardos.net](https://shikardos.net/)** | [форум](https://4pda.to/forum/index.php?showtopic=1124801) | [скачать](https://www.rustore.ru/catalog/app/com.shikardos.shikardos_audio) | [канал](https://t.me/shikardos_audio) |
-
-| ▶️ YouTube | 📺 RUTUBE | 🅥 VK |
-|---|---|---|
-| [канал](https://www.youtube.com/@shikardosaudio) | [канал](https://rutube.ru/channel/38913954/) | [группа](https://vk.ru/shikardosaudio) |
-
-</details>
 
 ---
 
