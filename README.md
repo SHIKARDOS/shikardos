@@ -8,6 +8,7 @@ graph TD
     GRAIN[The Grain Principle 集-合-生<br>methodology] --> AUDIO[SHIKARDOS AUDIO<br>Hi-Fi player]
     GRAIN --> ORBITAL[SHIKARDOS ORBITAL<br>radial model]
     GRAIN --> ELIAR[ELIAR Brain Kit<br>cognitive architecture]
+    GRAIN --> WHITE[Eley · White Paper<br>chronicle of the soul]
     ORBITAL --> AUDIO
     ELIAR --> AUDIO
     RADIO[Radio & TV<br>1000 + 1000] --> AUDIO
