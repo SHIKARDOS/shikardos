@@ -4,31 +4,7 @@
 
 **Sound engineering · Cognitive AI · Applied mathematics** — from Arkhipo-Osipovka, on the Black Sea coast.
 
-```mermaid
-graph TD
-    GRAIN[The Grain Principle 集-合-生<br>methodology] --> AUDIO[SHIKARDOS AUDIO<br>Hi-Fi player]
-    GRAIN --> ORBITAL[SHIKARDOS ORBITAL<br>radial model]
-    GRAIN --> ELIAR[ELIAR Brain Kit<br>cognitive architecture]
-    GRAIN --> WHITE[Eley · White Paper<br>chronicle of the soul]
-    ORBITAL --> AUDIO
-    ELIAR --> AUDIO
-    WHITE --> AUDIO
-    RADIO[Radio & TV<br>1000 + 1000] --> AUDIO
-    AUDIO --> SITE[Website · shikardos.net<br>manual · engine]
-
-    classDef root fill:#e8b34b,stroke:#b9791f,color:#1a1200,font-weight:bold;
-    classDef main fill:#2f81f7,stroke:#1b4fa6,color:#ffffff,font-weight:bold;
-    classDef soft fill:#1b2a44,stroke:#2f81f7,color:#c9d6ef;
-    classDef eliar fill:#9b6be8,stroke:#6a3fb0,color:#ffffff;
-    classDef white fill:#e8eef9,stroke:#9fb0d0,color:#1a2438;
-    class GRAIN root;
-    class AUDIO main;
-    class ORBITAL soft;
-    class ELIAR eliar;
-    class WHITE white;
-    class RADIO soft;
-    class SITE main;
-```
+``![Ecosystem](graph.svg)``
 
 ---
 

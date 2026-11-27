@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-label="SHIKARDOS ecosystem">
+  <defs>
+    <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1" fill="#152644"/>
+    </pattern>
+    <pattern id="grid2" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1" fill="#152844"/>
+    </pattern>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="4.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glowSoft" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="2.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="760" fill="#05080f"/>
+  <rect width="1200" height="760" fill="url(#grid2)" opacity="0.55"/>
+
+  <!-- ===== дорожки ===== -->
+  <g fill="none" stroke-linecap="round">
+    <!-- корень → верхний ряд -->
+    <path d="M600 212 C 560 250, 320 268, 230 306" stroke="#e8b34b" stroke-width="1.6" opacity="0.75" filter="url(#glowSoft)"/>
+    <path d="M600 212 C 580 250, 520 268, 480 306" stroke="#e8b34b" stroke-width="1.6" opacity="0.75" filter="url(#glowSoft)"/>
+    <path d="M600 212 C 620 250, 680 268, 730 306" stroke="#e8b34b" stroke-width="1.6" opacity="0.75" filter="url(#glowSoft)"/>
+    <path d="M600 212 C 640 250, 880 268, 980 306" stroke="#e8b34b" stroke-width="1.6" opacity="0.75" filter="url(#glowSoft)"/>
+    <!-- верхний ряд → аудио -->
+    <path d="M230 384 C 280 430, 380 450, 430 508" stroke="#4cc3ff" stroke-width="1.6" opacity="0.7" filter="url(#glowSoft)"/>
+    <path d="M480 384 C 490 430, 540 450, 560 508" stroke="#9b6be8" stroke-width="1.6" opacity="0.7" filter="url(#glowSoft)"/>
+    <path d="M730 384 C 700 430, 650 450, 630 508" stroke="#e8eef9" stroke-width="1.6" opacity="0.55" filter="url(#glowSoft)"/>
+    <path d="M980 384 C 940 430, 840 450, 780 508" stroke="#4cc3ff" stroke-width="1.6" opacity="0.7" filter="url(#glowSoft)"/>
+    <!-- аудио → сайт -->
+    <path d="M600 556 L 600 626" stroke="#4cc3ff" stroke-width="2" filter="url(#glowSoft)"/>
+  </g>
+
+  <!-- ===== корень ===== -->
+  <polygon points="600,48 700,96 700,172 600,220 500,172 500,96" fill="#171103" stroke="#e8b34b" stroke-width="2" filter="url(#glow)"/>
+  <text x="600" y="128" text-anchor="middle" fill="#e8b34b" font-family="Consolas, 'Courier New', monospace" font-size="19" font-weight="bold" letter-spacing="1">THE GRAIN PRINCIPLE</text>
+  <text x="600" y="152" text-anchor="middle" fill="#c9a35c" font-family="Consolas, 'Courier New', monospace" font-size="13">集 · 合 · 生 — methodology</text>
+
+  <!-- ===== верхние чипы ===== -->
+  <!-- ORBITAL -->
+  <g filter="url(#glowSoft)">
+    <rect x="130" y="306" width="200" height="78" rx="10" fill="#0a1626" stroke="#4cc3ff" stroke-width="1.6"/>
+  </g>
+  <text x="230" y="340" text-anchor="middle" fill="#bfe9ff" font-family="Consolas, monospace" font-size="15" font-weight="bold">ORBITAL</text>
+  <text x="230" y="362" text-anchor="middle" fill="#5f7c9c" font-family="Consolas, monospace" font-size="11">radial control model</text>
+
+  <!-- ELIAR -->
+  <g filter="url(#glowSoft)">
+    <rect x="380" y="306" width="200" height="78" rx="10" fill="#120d1c" stroke="#9b6be8" stroke-width="1.6"/>
+  </g>
+  <text x="480" y="340" text-anchor="middle" fill="#d9c3ff" font-family="Consolas, monospace" font-size="15" font-weight="bold">ELIAR BRAIN KIT</text>
+  <text x="480" y="362" text-anchor="middle" fill="#7a639c" font-family="Consolas, monospace" font-size="11">cognitive architecture · 54 organs</text>
+
+  <!-- WHITE PAPER -->
+  <g filter="url(#glowSoft)">
+    <rect x="630" y="306" width="200" height="78" rx="10" fill="#10151d" stroke="#9fb0d0" stroke-width="1.6"/>
+  </g>
+  <text x="730" y="340" text-anchor="middle" fill="#e8eef9" font-family="Consolas, monospace" font-size="15" font-weight="bold">WHITE PAPER</text>
+  <text x="730" y="362" text-anchor="middle" fill="#6a7a94" font-family="Consolas, monospace" font-size="11">Eley · chronicle of the soul</text>
+
+  <!-- RADIO & TV -->
+  <g filter="url(#glowSoft)">
+    <rect x="880" y="306" width="200" height="78" rx="10" fill="#0a1626" stroke="#4cc3ff" stroke-width="1.6"/>
+  </g>
+  <text x="980" y="340" text-anchor="middle" fill="#bfe9ff" font-family="Consolas, monospace" font-size="15" font-weight="bold">RADIO &amp; TV</text>
+  <text x="980" y="362" text-anchor="middle" fill="#5f7c9c" font-family="Consolas, monospace" font-size="11">1000 stations + 1000 channels</text>
+
+  <!-- ===== AUDIO ===== -->
+  <g filter="url(#glow)">
+    <rect x="390" y="508" width="420" height="48" rx="10" fill="#081a30" stroke="#2f81f7" stroke-width="2.4"/>
+  </g>
+  <text x="600" y="538" text-anchor="middle" fill="#dcebff" font-family="Consolas, monospace" font-size="17" font-weight="bold" letter-spacing="1">SHIKARDOS AUDIO</text>
+
+  <!-- ===== SITE ===== -->
+  <g filter="url(#glowSoft)">
+    <rect x="430" y="626" width="340" height="70" rx="10" fill="#0a1626" stroke="#4cc3ff" stroke-width="1.6"/>
+  </g>
+  <text x="600" y="656" text-anchor="middle" fill="#bfe9ff" font-family="Consolas, monospace" font-size="15" font-weight="bold">WEBSITE · shikardos.net</text>
+  <text x="600" y="678" text-anchor="middle" fill="#5f7c9c" font-family="Consolas, monospace" font-size="11">manual · DSP engine · ORBITAL · Lira</text>
+</svg>
